@@ -1,0 +1,15 @@
+{
+  "name": "poc-automation-cucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "author": "Mick Hill",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^10.0.1",
+    "cucumber": "^6.0.7"
+  }
+}

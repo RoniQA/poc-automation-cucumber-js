@@ -347,4 +347,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Relatorios Cucumber
+reports/
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,node,windows,linux,macos,phpstorm

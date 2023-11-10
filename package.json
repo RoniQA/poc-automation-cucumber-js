@@ -10,6 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "@cucumber/cucumber": "^10.0.1",
+    "@cucumber/pretty-formatter": "^1.0.0",
+    "chai": "^4.3.10",
     "cucumber": "^6.0.7"
+  },
+  "devDependencies": {
+    "cucumber-pretty": "^6.0.1"
   }
 }

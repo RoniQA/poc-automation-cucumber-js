@@ -1,7 +1,7 @@
 {
   "name": "poc-automation-cucumber",
   "version": "1.0.0",
-  "description": "",
+  "description": "Install dependencies ```bash npm install ```",
   "main": "index.js",
   "scripts": {
     "test": "cucumber-js"
@@ -15,6 +15,15 @@
     "cucumber": "^6.0.7"
   },
   "devDependencies": {
-    "cucumber-pretty": "^6.0.1"
-  }
+    "cucumber-pretty": "^6.0.1",
+    "webdriverio": "^8.26.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mickhill-qa/poc-automation-cucumber-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mickhill-qa/poc-automation-cucumber-js/issues"
+  },
+  "homepage": "https://github.com/mickhill-qa/poc-automation-cucumber-js#readme"
 }
